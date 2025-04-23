@@ -1,3 +1,5 @@
+added in gitbash
+
 # Password-Generator
 <p align="center">
   <img src="https://img.shields.io/github/stars/reshmaharidhas/Password-Generator?style=social">
